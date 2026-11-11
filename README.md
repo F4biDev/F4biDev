@@ -6,9 +6,15 @@
 💻 Estudante de Desenvolvimento de Sistemas na ETEC Irmã Agostina.
 
 📚 Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvimento de software.
-   
-   ![Imagem](Images/logos.png)
+ # Tecnologias e ferramentas que estou aprendendo:
 
- 📂 Projetos
+- Java
+- PHP
+- JavaScript
+- HTML e CSS
+- SQL
+- Git e GitHub
+
+ # 📂 Projetos
 
 Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante minha jornada de aprendizado.
