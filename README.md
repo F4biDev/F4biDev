@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="images/capa.png" width="100%">
+  <img src="Images/capa.png" width="100%">
 </div>
