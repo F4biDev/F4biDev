@@ -15,6 +15,8 @@
 - SQL
 - Git e GitHub
 
+![Meu gif](Images/gifarcane.gif)
+
  # 📂 Projetos
 
 Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante minha jornada de aprendizado.
