@@ -1,1 +1,1 @@
-![Minha imagem](Images/capa.jpg).
+![Minha imagem](Images/profile.jpg).
