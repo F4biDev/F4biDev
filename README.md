@@ -6,9 +6,8 @@
 💻 Estudante de Desenvolvimento de Sistemas na ETEC Irmã Agostina.
 
 📚 Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvimento de software.
-   ///Linguagens que estudo///
-
-![Imagem](Images/logos.png)
+   
+   ![Imagem](Images/logos.png)
 
  📂 Projetos
 
