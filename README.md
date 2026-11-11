@@ -7,7 +7,7 @@
 
 📚 Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvimento de software.
 
-![imagem](Images/perfil.jpg)
+![logos](Images/logos.jpg)
 
 ### 📂 Projetos
 
