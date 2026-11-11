@@ -1,4 +1,4 @@
-![Minha imagem](Abstract White Gray Liquid Background.jpg)
+![Minha imagem](capa.jpg)
 
 <!--
 **F4biDev/F4biDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
