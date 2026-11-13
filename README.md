@@ -1,11 +1,11 @@
 ![Minha imagem](Images/perfil.jpg)
 
 
-# Olá! Eu sou a F4biDev 👽
+# Olá! Eu sou a F4biDev
 
  Estudante de Desenvolvimento de Sistemas na ETEC Irmã Agostina.
 
-📚 Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvimento de software.
+👽 Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvimento de software.
 
  # Tecnologias e ferramentas que estou aprendendo:
 
