@@ -15,7 +15,7 @@
 - SQL
 - Git e GitHub
 
-![Meu gif](Images/gifarcane.gif)
+![Meu gif](Images/pokemon.gif)
 
  # 📂 Projetos
 
