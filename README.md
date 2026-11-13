@@ -3,9 +3,10 @@
 
 # Olá! Eu sou a F4biDev 👽
 
-💻 Estudante de Desenvolvimento de Sistemas na ETEC Irmã Agostina.
+# Estudante de Desenvolvimento de Sistemas na ETEC Irmã Agostina.
 
 📚 Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvimento de software.
+
  # Tecnologias e ferramentas que estou aprendendo:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,4 +22,4 @@
 
  # 📂 Projetos
 
-Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante minha jornada de aprendizado.
+Abaixo você encontrará projetos acadêmicos e pessoais desenvolvidos durante minha jornada de aprendizado.
